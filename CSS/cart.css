@@ -1389,4 +1389,12 @@ footer {
         height: 15px;
     }
 
+    .end-footer{
+        display: none;
+    }
+
+    .foot{
+        display: none;
+    }
+
 }
